@@ -19,8 +19,13 @@ The full iteration 2 spec is in [docs/iteration-2-spec.md](docs/iteration-2-spec
 ## Stretch Goals
 
 **Look and feel:** go grand!
+
+
 <img width="450" alt="library-baroque" src="https://github.com/user-attachments/assets/f7567cac-99a3-477c-ab89-5fb0b2fe7e11" />
+
 **Make it personal**
+
+
 <img width="450" alt="cyberpunk-library" src="https://github.com/user-attachments/assets/a50f02b1-8ba4-40b0-8748-6c184563f527" />
 
 
