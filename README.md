@@ -16,6 +16,14 @@ A cozy, walkable 3D library you can enter on desktop or in a VR headset (WebXR).
 
 The full iteration 2 spec is in [docs/iteration-2-spec.md](docs/iteration-2-spec.md). Where the project is going (personal library and branded storefront) and the phased roadmap are in [docs/PRD.md](docs/PRD.md).
 
+## Stretch Goals
+
+**Look and feel:** go grand!
+<img width="450" alt="library-baroque" src="https://github.com/user-attachments/assets/f7567cac-99a3-477c-ab89-5fb0b2fe7e11" />
+**Make it personal**
+<img width="450" alt="cyberpunk-library" src="https://github.com/user-attachments/assets/a50f02b1-8ba4-40b0-8748-6c184563f527" />
+
+
 ## Run it locally
 
 The page is a single `index.html`. It loads Three.js and GSAP from CDNs, so it needs an internet connection.
