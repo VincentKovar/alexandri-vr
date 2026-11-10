@@ -1,6 +1,10 @@
 # Alexandria VR
 
-A cozy, walkable 3D library you can enter on desktop or in a VR headset (WebXR). Walk to the bookcase, touch a shelf, see its covers float out in front of you, touch a cover, and read. Built with Three.js r128 and GSAP; no build step is needed to run it.
+A cozy, walkable 3D library you can enter on desktop or in a VR headset (WebXR). Walk to the bookcase, touch a shelf, see its covers float out in front of you, touch a cover, and read. Built with Three.js r128 and GSAP; no build step is needed to run it. Prototype is testable here: https://vincentkovar.github.io/alexandri-vr/
+
+<img width="260" alt="Bookcase view" src="https://github.com/user-attachments/assets/c7e7de02-0260-4492-be82-2246a8e93486" />
+<img width="260" alt="Books fanned from one shelf" src="https://github.com/user-attachments/assets/a6ab471d-92e2-4d0e-9f6e-b5c3d885f529" />
+<img width="260" alt="Flippable pages- 2-up" src="https://github.com/user-attachments/assets/1521bcde-bf19-4c65-bb6c-77788e81002b" />
 
 ## Goals
 
@@ -8,6 +12,7 @@ A cozy, walkable 3D library you can enter on desktop or in a VR headset (WebXR).
 
 **Current scope:** one cozy room, one interaction flow, 12 Project Gutenberg books with real covers, VR teleport.
 **Out of scope (iteration 3):** Calibre export, 300+ books, multiple bookcases, search, full-length reading, multiple rooms or moods.
+**Future iterations:** Branded multimedia stores to purchase digital content (books, podcasts, etc)
 
 The full iteration 2 spec is in [docs/iteration-2-spec.md](docs/iteration-2-spec.md). Where the project is going (personal library and branded storefront) and the phased roadmap are in [docs/PRD.md](docs/PRD.md).
 
