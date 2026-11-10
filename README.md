@@ -11,7 +11,9 @@ A cozy, walkable 3D library you can enter on desktop or in a VR headset (WebXR) 
 **Goal:** a first-time viewer, with no coaching, walks to a bookcase, touches a shelf, sees covers fan out into a floating display, touches one, and reads, in **under 60 seconds**, on desktop and on Quest 2.
 
 **Current scope:** one cozy room, one interaction flow, 12 Project Gutenberg books with real covers, VR teleport.
+
 **Out of scope (iteration 3):** Calibre export, 300+ books, multiple bookcases, search, full-length reading, multiple rooms or moods.
+
 **Future iterations:** Branded multimedia stores to purchase digital content (books, podcasts, etc)
 
 The full iteration 2 spec is in [docs/iteration-2-spec.md](docs/iteration-2-spec.md). Where the project is going (personal library and branded storefront) and the phased roadmap are in [docs/PRD.md](docs/PRD.md).
