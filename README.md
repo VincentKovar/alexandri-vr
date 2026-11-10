@@ -1,6 +1,6 @@
 # Alexandria VR
 
-A cozy, walkable 3D library you can enter on desktop or in a VR headset (WebXR). Walk to the bookcase, touch a shelf, see its covers float out in front of you, touch a cover, and read. Built with Three.js r128 and GSAP; no build step is needed to run it. Prototype is testable here: https://vincentkovar.github.io/alexandri-vr/
+A cozy, walkable 3D library you can enter on desktop or in a VR headset (WebXR) [Not currently optimized for mobile]. Walk to the bookcase, touch a shelf, see its covers float out in front of you, touch a cover, and read. Built with Three.js r128 and GSAP; no build step is needed to run it. Prototype is testable here: https://vincentkovar.github.io/alexandri-vr/
 
 <img width="260" alt="Bookcase view" src="https://github.com/user-attachments/assets/c7e7de02-0260-4492-be82-2246a8e93486" />
 <img width="260" alt="Books fanned from one shelf" src="https://github.com/user-attachments/assets/1521bcde-bf19-4c65-bb6c-77788e81002b" />
